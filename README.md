@@ -1,1 +1,1 @@
-# Dans cette branche , se trouvent les outils qui servent pour travailler sur Python rapidement
+# Dans cette branche , les outils pour avoir les bases sur Python le plus rapidement possible
